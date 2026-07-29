@@ -1,7 +1,7 @@
 create:
   default-allow: false
 trade:
+  # False blocks every shop in a region that does not carry the flag.
   default-allow: false
-# amount limit for per region, -1 for no limit
-# this is a simple limit, There are no plans to expand it
+# Amount limit for per region, -1 for no limit.
 max-shops-in-region: -1
